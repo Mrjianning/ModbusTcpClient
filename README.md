@@ -24,10 +24,8 @@
    git clone https://github.com/yourusername/ModbusTcpClient.git
    ```
    
-   ```
 2. 在Qt Creator中打开项目运行即可：
 
-   ```
 
 
 ## 使用说明
