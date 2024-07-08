@@ -48,47 +48,6 @@
          </widget>
         </item>
         <item>
-         <widget class="QLabel" name="label_4">
-          <property name="text">
-           <string>功能码选择：</string>
-          </property>
-         </widget>
-        </item>
-        <item>
-         <widget class="QComboBox" name="comboBox">
-          <item>
-           <property name="text">
-            <string>01</string>
-           </property>
-          </item>
-          <item>
-           <property name="text">
-            <string>02</string>
-           </property>
-          </item>
-          <item>
-           <property name="text">
-            <string>03</string>
-           </property>
-          </item>
-          <item>
-           <property name="text">
-            <string>04</string>
-           </property>
-          </item>
-          <item>
-           <property name="text">
-            <string>05（写单个线圈）</string>
-           </property>
-          </item>
-          <item>
-           <property name="text">
-            <string>06</string>
-           </property>
-          </item>
-         </widget>
-        </item>
-        <item>
          <spacer name="verticalSpacer">
           <property name="orientation">
            <enum>Qt::Vertical</enum>
